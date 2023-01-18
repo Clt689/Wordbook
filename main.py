@@ -1,5 +1,5 @@
 # MAIN PROGRAM
-12
+
 import time
 import pprint
 import requests
@@ -13,6 +13,7 @@ from PIL import Image
 # nltk.download('punkt')
 # nltk.download('stopwords')
 
+# 아나콘다 cmd에서 실행
 # conda install -c anaconda numpy
 # conda install -c anaconda pandas
 # conda install -c conda-forge wordcloud
