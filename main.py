@@ -10,6 +10,7 @@ import numpy as np
 from PIL import Image
 #from wordcloud import WordCloud
 
+# 프로그램 실행 전 실행 
 # nltk.download('punkt')
 # nltk.download('stopwords')
 
@@ -128,6 +129,7 @@ pprint.pprint(total_dict_list)
 ##################
 # 5.Excel 저장 #
 ##################
+# openpyxl 라이브러리 사용
 col_names = ['word', 'mean_1', 'mean_2', 'mean_3', 'mean_4', 'mean_5']
 df_dict = pd.DataFrame(total_dict_list, columns=col_names)
 print(df_dict)
