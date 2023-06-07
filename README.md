@@ -1,5 +1,5 @@
 # :books:GenWordbook
-# :books:
+# :books: 
 Python을 기반으로 영단어장을 생성하는 프로그램
 - 미드 'Friends' 스크립트 활용
 - DAUM  영어사전 활용
