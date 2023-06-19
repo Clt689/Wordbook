@@ -13,7 +13,7 @@ from wordcloud import WordCloud
  
 # 프로그램 실행 전 실행 
 # nltk.download('punkt')
-# nltk.download('stopwords')
+# nltk.download('stopwords') 
 
 # 아나콘다 cmd에서 실행
 # conda install -c anaconda numpy
