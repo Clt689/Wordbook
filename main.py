@@ -10,7 +10,7 @@ import numpy as np
 from PIL import Image
 from wordcloud import WordCloud
 # openpyxl 라이브러리
-
+ 
 # 프로그램 실행 전 실행 
 # nltk.download('punkt')
 # nltk.download('stopwords')
