@@ -8,7 +8,7 @@ Python을 기반으로 영단어장을 생성하는 프로그램
 - Language: [Python 3.11](http://www.python.org/)
 - IDE Tool: [Pycharm](https://www.jetbrains.com/ko-kr/pycharm/)
 - Package Manager: [Anaconda](https://www.anaconda.com/)
-- Using Library: requests, beautifulsoup4, numpy, pandas, matplotlib, wordcloud, nltk
+- Using Library: requests, beautifulsoup4, numpy, pandas, matplot lib, wordcloud, nltk
 
 ## :notebook_with_decorative_cover:Contents
 #### 1.미드 'Friends' 대본 수집
